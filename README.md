@@ -1,4 +1,4 @@
-# Covid-19 : An Analytical Study
+# Data Exploration with SQL: COVID-19 Case Study
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
